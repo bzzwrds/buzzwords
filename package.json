@@ -12,6 +12,10 @@
   "author": "@sevki",
   "license": "BSD",
   "devDependencies": {
+    "@babel/preset-flow": "^7.0.0",
+    "babel-cli": "^6.26.0",
+    "babel-preset-flow": "^6.23.0",
+    "flow-bin": "^0.86.0",
     "node-fetch": "^2.2.0",
     "opn": "^5.3.0"
   },
